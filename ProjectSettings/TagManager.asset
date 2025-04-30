@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy2
+  - AmmoPickup
+  - Ammo
+  - Cat
+  - Enemy3
+  - HealthPickUp
+  - Enemy5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Enemy1
+  - Enemy2
+  - Player
+  - Ammo
+  - Cat
+  - Crate
+  - CarryPoint
+  - Enemy3
+  - Enemy4
+  - HealthHeart
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1818522259
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
